@@ -1,1 +1,5 @@
-# Skip-List
+# Skills practiced
+- Skip List
+    - Insert
+    - Search
+    - Delete
